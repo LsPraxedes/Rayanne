@@ -1,0 +1,11 @@
+{
+  "routes": [
+    {
+      "src": "/",
+      "dest": "/desafio-do-elogio.zip",
+      "headers": {
+        "Content-Disposition": "attachment; filename=\"desafio-do-elogio.zip\""
+      }
+    }
+  ]
+}
