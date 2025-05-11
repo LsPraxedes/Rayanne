@@ -2,9 +2,9 @@
   "routes": [
     {
       "src": "/",
-      "dest": "/desafio-do-elogio.zip",
+      "dest": "/desafio-do-elogio.html",
       "headers": {
-        "Content-Disposition": "attachment; filename=\"desafio-do-elogio.zip\""
+        "Content-Disposition": "attachment; filename=\"desafio-do-elogio.html\""
       }
     }
   ]
