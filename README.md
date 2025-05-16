@@ -66,12 +66,20 @@ Esta proposta é de **Rayanne Gonçalves Pereira Souza**, criada como parte de s
 
 ## ⚠️ Direitos Autorais
 
-O projeto está protegido por direitos autorais, conforme a legislação brasileira. **Uso comercial não autorizado é proibido.** Uso educacional e familiar é encorajado e bem-vindo, com os devidos créditos.
+## ⚖️ Licença de Uso
 
----
+- O conteúdo original da **cartilha** é protegido por **direito autoral**, conforme a legislação brasileira, e **não pode ser reproduzido comercialmente sem autorização da autora**.
 
-## 🤝 Licença de Uso
+- A **versão digital e seu código-fonte (HTML, CSS, JS)** deste repositório está licenciada sob a:
 
-Uso livre para fins **educacionais, clínicos e familiares**, com os devidos créditos à autora. **Reprodução comercial proibida sem autorização prévia.**
+### GNU GENERAL PUBLIC LICENSE  
+**Versão 3, 29 de junho de 2007**  
+Você pode:
+- Usar, estudar, modificar e distribuir este software gratuitamente;
+- Garantir que quaisquer versões derivadas também sejam licenciadas sob a GPLv3.
+
+A cópia completa da licença pode ser lida [aqui](https://www.gnu.org/licenses/gpl-3.0.pt-br.html).
+
+> ℹ️ Essa licença garante liberdade de uso para fins educacionais e sociais, promovendo o acesso aberto à tecnologia, desde que mantida a mesma liberdade nas redistribuições.
 
 ---
