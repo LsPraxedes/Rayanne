@@ -39,6 +39,14 @@ O link gerado pelo Vercel pode ser transformado em um QR Code. Ao escanear com o
 
 ---
 
+## 🧱 Estrutura do projeto
+
+desafio-do-elogio/
+├── desafio-do-elogio.zip # Versão compactada com o HTML
+├── vercel.json # Configuração de rotas para forçar download
+
+---
+
 ## 🧠 Tecnologias utilizadas
 
 - HTML5
